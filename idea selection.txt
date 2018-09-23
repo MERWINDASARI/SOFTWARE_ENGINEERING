@@ -1,0 +1,15 @@
+DEVELOPER-USER INTERACTION
+	https://oro.open.ac.uk/17672/1/ICSE2009_SECSE_2612_Segal_Judith.pdf-NEED OF USER INTERACTON
+	--which leads to one to one software and user designs(AI)
+	--issues in AI
+	--do't no what user wants or review on software
+	--we need better review system
+
+APP-DEVELOPMENT
+	https://ieeexplore.ieee.org/abstract/document/7765038/
+
+software clones 
+	https://www.sciencedirect.com/science/article/abs/pii/S0950584913000323--need for software clone detection
+	https://ieeexplore.ieee.org/document/8025227/--techniques on software cclone detection
+	https://ieeexplore.ieee.org/document/6909115/--Software code cloning detection and future scope development
+	
