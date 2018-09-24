@@ -2,7 +2,7 @@ DEVELOPER-USER INTERACTION
 	https://oro.open.ac.uk/17672/1/ICSE2009_SECSE_2612_Segal_Judith.pdf-NEED OF USER INTERACTON
 	--which leads to one to one software and user designs(AI)
 	--issues in AI
-	--do't no what user wants or review on software
+	--don't no what user wants or review on software
 	--we need better review system
 
 APP-DEVELOPMENT
