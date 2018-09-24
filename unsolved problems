@@ -1,6 +1,6 @@
 developer
-	-ambiguty in intention of the user
-	-intent based classifiction of reviews(proper metrics for prioritising the issues)
+	-ambiguty in intention of the user(Unable to develop or fix the problem without understanding the problem itself)
+	-intent based classifiction of reviews|proper metrics for prioritising the issues (Don't know which issue to be fixed first)
 user
-	-unable to express intent of user precisely
-	-Dynamic review system
+	-unable to express intent of user precisely(Can't help the developer to fix the problem)
+	-Dynamic review system(Redundancy and users may not know that the prroblem is fixed)
