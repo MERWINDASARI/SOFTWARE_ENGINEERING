@@ -10,6 +10,6 @@ APP-DEVELOPMENT
 
 software clones (when code is given)
 	https://www.sciencedirect.com/science/article/abs/pii/S0950584913000323--need for software clone detection
-	https://ieeexplore.ieee.org/document/8025227/--techniques on software cclone detection
+	https://ieeexplore.ieee.org/document/8025227/--techniques on software clone detection
 	https://ieeexplore.ieee.org/document/6909115/--Software code cloning detection and future scope development
 	
