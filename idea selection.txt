@@ -7,5 +7,14 @@ DEVELOPER-USER INTERACTION
 
 APP-DEVELOPMENT
 	https://ieeexplore.ieee.org/abstract/document/7765038/
+	
+WHY TO DO THIS 
+	FIRST
+ 	-challenges facing software engineers developing software-https://oro.open.ac.uk/17672/1/ICSE2009_SECSE_2612_Segal_Judith.pdf
+ 	(NEED OF BETTER REVIEW SYSTEM)
+	-for better express of intent of user to developer and for a developer to understand the user intent.
+	
+	SECOND
+	-NO Taggification of reviwes that are solved.
 
 	
