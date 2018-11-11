@@ -1,0 +1,33 @@
+body{
+	height: 200px;
+	width: 350px;
+}
+
+h1{
+	color: grey;
+	text-align: center;
+}
+
+#buttons{
+	
+}
+
+#report_button{
+	float: left;
+	width:40%;
+	margin: 5% 5%;
+}
+
+#developer_button {
+	float: left;
+	width: 40%;
+	margin: 5% 5%;
+}
+
+a{
+	color: grey;
+}
+a:hover{
+	color: grey;
+}
+

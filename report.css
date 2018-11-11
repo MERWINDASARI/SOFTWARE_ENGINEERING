@@ -1,0 +1,83 @@
+body {
+    width:auto;
+    min-width:750px;
+    height:auto;
+    background:rgb(242, 234, 255);
+}
+.box {
+	 background:rgb(242, 234, 255);
+}
+.leng {
+	text-align: left; 
+}
+.img-upload-btn { 
+    position: relative; 
+    overflow: hidden; 
+    padding-top: 95%;
+    min-height: 100px;
+    min-width: 100px;
+} 
+
+.img-upload-btn input[type=file] { 
+    position: absolute; 
+    top: 0; 
+    right: 0; 
+    min-width: 45%; 
+    min-height: 45%; 
+    font-size: 100px; 
+    text-align: right; 
+    filter: alpha(opacity=0); 
+    opacity: 0; 
+    outline: none; 
+    background: black; 
+    cursor: inherit; 
+    display: block; 
+} 
+
+.img-upload-btn i { 
+    position:absolute;
+    color: red;
+    height: 16px;
+    width: 16px;
+    top: 50%;
+    left: 50%;
+    margin-top: -8px;
+    margin-left: -8px;
+}
+
+.btn-radio {
+    position: relative; 
+    overflow: hidden; 
+}
+
+.btn-radio input[type=radio] { 
+    position: absolute; 
+    top: 0; 
+    right: 0; 
+    min-width: 100%; 
+    min-height: 100%; 
+    font-size: 100px; 
+    text-align: right; 
+    filter: alpha(opacity=0); 
+    opacity: 0; 
+    outline: none; 
+    background: white; 
+    cursor: inherit; 
+    display: block; 
+}
+.img-responsive {
+	height:127px;
+	width: 150px;
+	border-radius:5px;
+}
+.shadow-textarea textarea.form-control::placeholder {
+    font-weight: 300;
+}
+.shadow-textarea textarea.form-control {
+    padding-left: 0.8rem;
+}
+
+#submit {
+	margin-left: 10px;
+	margin-top: 50px;
+}

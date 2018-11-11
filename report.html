@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Report issue</title>
+	<link rel="stylesheet" type="text/css" href="bootstrap.css">
+	<link rel="stylesheet" type="text/css" href="report.css">
+	
+	
+</head>
+<body>
+	<div class="WebContainer">
+		<h1 class="text-center">
+			&#x1F61E Report issue
+		</h1>
+	</div>
+	<table class="box .table">
+		<tr>
+			<td><legend class="leng">&#x1F4F7 Provide Snapshot Of Error</legend></td>
+			<td>
+				<div class="container"> 
+			    <br> 
+				    <div class="col-sm-8"> 
+				        <form role="form"> 
+				            <legend>Add Images</legend> 
+				            <div class="row">
+				                <div class="form-group col-sm-2"> 
+				                    <div class="img-picker">
+				                    	<div class="form-control btn btn-default btn-block img-upload-btn">
+				                 			<i class="glyphicon glyphicon-plus">
+				                 			</i>
+				                 			<input type="file" name="images">
+				                    	</div>
+				                    </div>
+				                </div>
+				            </div>
+				            <!-- <button type="submit" class="btn btn-primary">Submit</button> -->
+				        </form> 
+				    </div> 
+				</div>
+			</td>
+
+		</tr>
+		<tr>
+			<td><legend class="leng">&#x270e Explain what you are tying to do when you got the error</legend></td>
+			<td>
+				<form action = "/cgi-bin/hello_get.cgi" method = "get"> 
+			         <br />
+			         <textarea id="text1" class="form-control" rows = "5" cols = "50" name = "description" placeholder="Explain briefly"></textarea>
+      			</form>
+			</td>
+		</tr>
+		<tr>
+			<td><legend class="leng">&#x270e Explain your error</legend></td>
+			<td>
+				<form action = "/cgi-bin/hello_get.cgi" method = "get"> 
+			         <br />
+			         <textarea id="text2" class="form-control" rows = "5" cols = "50" name = "description" placeholder="Enter your error:"></textarea>
+      			</form>
+			</td>
+		</tr>
+		<tr>
+			<td><legend class="leng">&#x2699 Any suggestion on fixing the error</legend> </td>
+			<td>
+				<form  action = "/cgi-bin/hello_get.cgi" method = "get"> 
+			        <br />
+			        <textarea id="text3" class="form-control" rows = "5" cols = "50"  name = "description" placeholder="Feel Free To Write"></textarea>
+      			</form>
+			</td>
+		</tr>
+	</table>
+			<div  class="col-md-4 text-center" right =300px;> 
+		 <button type="submit" id="submit" class="btn btn-success">Submit</button>
+			</div>
+	<script src="jquery-3.3.1.min.js"></script>
+	<script src="report.js"></script>
+	<script src="developer.js"></script>
+	<script src="bootstrap.min.js"></script>
+</body>
+</html>
